@@ -1,5 +1,5 @@
 #
-# D13x 芯片配置
+# D13x chip configuration
 #
 
 if ARCH_CHIP_CUSTOM
